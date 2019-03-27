@@ -6,7 +6,7 @@
 Nano is Green is designed to be a feeless, instant, high throughput cryptocurrency for the world's economy. 
 
 ### Key features
-* Nano is Green utilizes a novel block-lettuce architecture.
+* Nano is Green utilizes a novel block-lettuce architecture created by Korin Rematoshi.
 * Instant and Feeless transactions.
 * Fungible (& Green).
 * Daily EARTH airdrops.
