@@ -18,7 +18,7 @@ Nano is Green is designed to be a feeless, instant, high throughput cryptocurren
 
 ### Key facts
 * Forked from NANO (raiblocks)
-* Total Supply: 7,655,674,120
+* Total Supply: 7,655,674,120 (Earth's population at time of creation)
 * Born in March. 2019, Mainnet launch coming soon
 
 For more information, see [NanoisGreen.com](https://NanoisGreen.com).
