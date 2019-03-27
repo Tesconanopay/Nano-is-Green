@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nano-is-Green/NanoisGreen/blob/master/logo.png" width="50%" height="50%"/></p>
+  <img src="https://github.com/Tesconanopay/Nano-is-Green/blob/master/logo.png" width="50%" height="50%"/></p>
 
 
 # What is Nano is Green?
@@ -12,7 +12,7 @@ Nano is Green is designed to be a feeless, instant, high throughput cryptocurren
 * Daily EARTH airdrops.
 * Ripe for memes.
 * Literally grows on planet Earth, no mining required.
-* Not a Shitcoin.
+* Not a Shitcoin (unless it is for fertiliser).
 * No more confusing prefix, Nano is Greens contain Greenos.
 * Replay Protection to stop attackers from executing replay attacks from chain X on chain Y and vice versa.
 
