@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NanoisGreen/NanoisGreen/blob/master/logo.png" width="50%" height="50%"/></p>
+  <img src="https://github.com/Nano-is-Green/NanoisGreen/blob/master/logo.png" width="50%" height="50%"/></p>
 
 
 # What is Nano is Green?
