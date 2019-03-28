@@ -2,18 +2,18 @@
   <img src="https://github.com/Tesconanopay/Nano-is-Green/blob/master/logo.png" width="50%" height="50%"/></p>
 
 
-# What is Nano is Green?
-Nano is Green is designed to be a feeless, instant, high throughput cryptocurrency for the world's economy. 
+# What is Nano Green?
+Nano Green is designed to be a feeless, instant, high throughput cryptocurrency for the world's economy. 
 
 ### Key features
-* Nano is Green utilizes a novel block-lettuce architecture created by Korin Rematoshi.
+* Nano Green utilizes a novel block-lettuce architecture created by Korin Rematoshi.
 * Instant and Feeless transactions.
 * Fungible (& Green).
 * Daily EARTH airdrops.
 * Ripe for memes.
 * Literally grows on planet Earth, no mining required.
-* Not a Shitcoin (unless it is for fertiliser).
-* No more confusing prefix, Nano is Greens contain Greenos.
+* Not a Shitcoin (unless it is used for fertiliser).
+* No more confusing prefix, Nano Greens contain Greenos.
 * Replay Protection to stop attackers from executing replay attacks from chain X on chain Y and vice versa.
 
 ### Key facts
@@ -24,18 +24,18 @@ Nano is Green is designed to be a feeless, instant, high throughput cryptocurren
 For more information, see [NanoisGreen.com](https://NanoisGreen.com).
 
 ### Resources
-- [Nano is Green website](https://Nano is Green.cc)
+- [Nano Green website](https://NanoisGreen.com)
 - [Greenpaper](https://NanoisGreen.com/)
 - [Discord chat](https://chat.TheEarthCentre.cc)
-- [Reddit](http://reddit.com/r/NanoisGreen)
-- [Fritter](http://twitter.com/NanoisGreen)
-- [GitHub wiki](http://github.com/NanoisGreen/Nano is Green/wiki)
+- [Reddit](http://reddit.com/r/NanoGreen)
+- [Fritter](http://twitter.com/NanoGreen)
+- [GitHub wiki](http://github.com/NanoGreen/NanoGreen/wiki)
 - [GreenVault](https://vault.Green.cc)
-- [Telegram](https://t.me/joinchat/NanoisGreen)
-- [Nano is Green.how all links at a glance](http://NanoisGreen.how/)
+- [Telegram](https://t.me/joinchat/NanoGreen)
+- [NanoGreen.how all links at a glance](http://NanoGreen.how/)
 
 ### Build instructions
-- [Building Nano is Green from source](https://github.com/NanoisGreen/NanoisGreen/wiki/Building-a-NanoisGreende-from-sources)
+- [Building Nano Green from source](https://github.com/NanoGreen/NanoGreen/wiki/Building-a-NanoGreende-from-sources)
 
 ### Running a Docker node
 - [Running a Docker node](https://github.com/NanoisGreen/NanoisGreen/wiki/Running-a-Docker-NanoisGreende)
